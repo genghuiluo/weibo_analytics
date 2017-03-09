@@ -1,0 +1,4 @@
+# cookie dump
+*.pkl
+# webdriver log
+*.log
